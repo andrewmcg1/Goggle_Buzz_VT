@@ -2,7 +2,7 @@ import os
 
 os.system(f'python3 -m venv .venv')
 
-with open('requirments.txt', 'r', encoding='utf-16') as file:
+with open('requirements.txt', 'r', encoding='utf-16') as file:
     requirements = file.read()
 
 requirements = requirements.split()
