@@ -13,4 +13,5 @@ Discord bot for use on the Rotor Jackets Discord server.
 - Automated Shipping-Sharing Channel
 - Custom Welcome Message and New User DM
 
+
 ![image](assets/gogglebuzz.png)
